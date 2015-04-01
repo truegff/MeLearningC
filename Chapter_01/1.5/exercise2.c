@@ -1,3 +1,4 @@
+/* This program demonstrates calculation of seconds in the provided number of days. */
 #include <stdio.h>
 
 int main(void) {

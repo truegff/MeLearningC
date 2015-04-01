@@ -1,3 +1,4 @@
+/* This program demonstrates volume calculation of a rectangular tank */
 #include <stdio.h>
 
 int main(void) {
